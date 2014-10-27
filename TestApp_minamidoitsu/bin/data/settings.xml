@@ -1,0 +1,61 @@
+<PARAMETERS>
+	<level>0.64</level>
+	<gain>1</gain>
+	<smooth_level>0</smooth_level>
+	<show_input_status>0</show_input_status>
+	<clipping>1</clipping>
+<PARAMETERS/>
+<group>
+		<color>255, 255, 255, 255</color>
+	<lig_pos>0, 0, 0</lig_pos>
+		<rot_speed>0.5</rot_speed>
+		<size>1</size>
+	<num_box>10</num_box>
+		<rotation_speed>0.1</rotation_speed>
+		<box_size>10</box_size>
+		<spaceing>10</spaceing>
+		<cloud_size>600</cloud_size>
+	</group>
+	<KzdPatternExample>
+		<pos>0, 0, 1200</pos>
+		<scale>93.7914, 509.038, 407.702</scale>
+		<rotate>0, 0, 0</rotate>
+		<bGlobalRotate>1</bGlobalRotate>
+		<thresh>0.362245</thresh>
+		<color>102, 142, 255, 163</color>
+		<bFIll>0</bFIll>
+		<bReverseTog>0</bReverseTog>
+		<isRand>1</isRand>
+	</KzdPatternExample>
+<GeometWave>
+		<color>255, 255, 255, 255</color>
+	<random_color>0</random_color>
+	</GeometWave>
+<RotationSphere>
+		<resolution>12</resolution>
+	<color>123, 255, 93, 255</color>
+		<random_color>0</random_color>
+	</RotationSphere>
+<Orientation>
+		<speed>0.0484796</speed>
+	<light_pos>237.651, 600, -349.604</light_pos>
+		<light_direction>266.289, 3.89838, -89.8126</light_direction>
+	</Orientation>
+<RotationCube>
+		<lig_pos>331.362, 243.898, 600</lig_pos>
+		<rot_speed>0.734694</rot_speed>
+		<size>0.357143</size>
+	</RotationCube>
+<BoxPerticle>
+		<num_box>27</num_box>
+		<rotation_speed>0.4</rotation_speed>
+		<box_size>198.98</box_size>
+		<spaceing>100</spaceing>
+		<cloud_size>419.898</cloud_size>
+	<color>255, 255, 255, 255</color>
+		<random_color>0</random_color>
+	</BoxPerticle>
+<video_mode>0</video_mode>
+<select_video>1</select_video>
+<noise>1</noise>
+</PARAMETERS>

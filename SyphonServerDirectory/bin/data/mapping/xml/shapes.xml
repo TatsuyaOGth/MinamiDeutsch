@@ -1,0 +1,41 @@
+<root>
+    <shape id="2">
+        <setting key="cols">2</setting>
+        <setting key="rows">2</setting>
+        <setting key="type">grid</setting>
+        <outputVertices>
+            <vertex x="123" y="71"></vertex>
+            <vertex x="294" y="66"></vertex>
+            <vertex x="466" y="62"></vertex>
+            <vertex x="133" y="161"></vertex>
+            <vertex x="297" y="157"></vertex>
+            <vertex x="465" y="158"></vertex>
+            <vertex x="133" y="272"></vertex>
+            <vertex x="302" y="266"></vertex>
+            <vertex x="471" y="264"></vertex>
+        </outputVertices>
+        <inputPolygon>
+            <vertex x="0" y="0"></vertex>
+            <vertex x="1200" y="0"></vertex>
+            <vertex x="1200" y="800"></vertex>
+            <vertex x="0" y="800"></vertex>
+        </inputPolygon>
+    </shape>
+    <shape id="3">
+        <setting key="cols">1</setting>
+        <setting key="rows">1</setting>
+        <setting key="type">grid</setting>
+        <outputVertices>
+            <vertex x="-21" y="-10"></vertex>
+            <vertex x="1179" y="-10"></vertex>
+            <vertex x="-21" y="790"></vertex>
+            <vertex x="1179" y="790"></vertex>
+        </outputVertices>
+        <inputPolygon>
+            <vertex x="0" y="0"></vertex>
+            <vertex x="1200" y="0"></vertex>
+            <vertex x="1200" y="800"></vertex>
+            <vertex x="0" y="800"></vertex>
+        </inputPolygon>
+    </shape>
+</root>

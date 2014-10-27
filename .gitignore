@@ -1,28 +1,46 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# .gitignore
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/default.*
+*/*xcodeproj/*.xcworkspace/
+*/*.xcodeproj/xcshareddata/
+*/*.xcodeproj/xcuserdata/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
 *.app
+*.exe
+*.exp
+
+*.png
+*.jpg
+*.csv
+*.txt
+*.tiff
+*.bmp
+*.mov
+*.m4v
+*.avi
+
+build/
+temp/
+!README.txt
+
+*.pdb
+*.tlog
+*.idb
+*.obj
+*.cache
+*.log
+*.lastbuildstate
+*.res
+*.dll
+*.opensdf
+*.sdf
+*.suo
+*.lib
+*.ilk
+
+tmp_*/
+
+Iconr
+*.mp4
+*.jpeg

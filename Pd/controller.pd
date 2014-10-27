@@ -1,0 +1,7 @@
+#N canvas 410 102 233 315 10;
+#X declare -path p;
+#X obj 12 63 continer;
+#X obj 8 6 cnv 15 100 30 empty empty SoundInputStream 12 12 0 14 -233017
+-66577 0;
+#X obj 119 39 declare -path p;
+#X text 10 41 port:9000;
